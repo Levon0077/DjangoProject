@@ -25,9 +25,9 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
+      <object connection-id="2cb75c1c-6d53-42b7-a2e6-19fa1d4fb1d6" object-ref="schemas/main/tables/myapp_order_products" />
       <object connection-id="2cb75c1c-6d53-42b7-a2e6-19fa1d4fb1d6" object-ref="schemas/main/tables/blogapp_article" />
       <object connection-id="2cb75c1c-6d53-42b7-a2e6-19fa1d4fb1d6" object-ref="schemas/main/tables/myapp_product" />
-      <object connection-id="2cb75c1c-6d53-42b7-a2e6-19fa1d4fb1d6" object-ref="schemas/main/tables/myapp_order_products" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
